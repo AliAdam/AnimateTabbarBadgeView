@@ -13,4 +13,3 @@ self.tabBarController?.animateTabBarBadgeView()
 
 ```
 
-![ScreenShot](https://{https://media.giphy.com/media/X9ScKBKtW48Ba/giphy.gif})
