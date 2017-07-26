@@ -12,6 +12,6 @@ All what you need just
 self.tabBarController?.animateTabBarBadgeView()
 
 ```
-![ScreenShot](https://raw.github.com/{AliAdam}/{AnimateTabbarBadgeView}/{master}/{screenShot.gif})
+![ScreenShot](https://github.com/AliAdam/AnimateTabbarBadgeView/blob/master/screenShot.gif})
 
 
