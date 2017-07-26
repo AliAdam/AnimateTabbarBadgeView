@@ -7,4 +7,8 @@ All what you need just
 1 - drob the Extension+UITabBarController.swift at your project 
 
 2 call it like this 
-   self.tabBarController?.animateTabBarBadgeView()
+
+```
+self.tabBarController?.animateTabBarBadgeView()
+
+```
